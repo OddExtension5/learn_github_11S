@@ -1,15 +1,3 @@
-11S GITHUB
-I am Anubhav Mondal
-Shlok Dasgupta
-Aastha
+Python Programs 2026
 
-11R Abhav Anand
-Madhuja Mitra
-Upayan Saha
-
-11 R
-Sayandeb Roy
-Avirup De
-
-11J
-Asmit here.
+Adrika Bhattacharya 11R
